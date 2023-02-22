@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://git-sam70.github.io/csb-s87kj6/static/js/main.0fffa765.chunk.js",
-    "main.js.map": "https://git-sam70.github.io/csb-s87kj6/static/js/main.0fffa765.chunk.js.map",
-    "runtime-main.js": "https://git-sam70.github.io/csb-s87kj6/static/js/runtime-main.3c995cec.js",
-    "runtime-main.js.map": "https://git-sam70.github.io/csb-s87kj6/static/js/runtime-main.3c995cec.js.map",
-    "static/js/2.65efad03.chunk.js": "https://git-sam70.github.io/csb-s87kj6/static/js/2.65efad03.chunk.js",
-    "static/js/2.65efad03.chunk.js.map": "https://git-sam70.github.io/csb-s87kj6/static/js/2.65efad03.chunk.js.map",
-    "index.html": "https://git-sam70.github.io/csb-s87kj6/index.html",
-    "static/js/2.65efad03.chunk.js.LICENSE.txt": "https://git-sam70.github.io/csb-s87kj6/static/js/2.65efad03.chunk.js.LICENSE.txt"
+    "main.js": "https://samdeez.github.io/csb-s87kj6/static/js/main.0507bbc3.chunk.js",
+    "main.js.map": "https://samdeez.github.io/csb-s87kj6/static/js/main.0507bbc3.chunk.js.map",
+    "runtime-main.js": "https://samdeez.github.io/csb-s87kj6/static/js/runtime-main.d8c11fc8.js",
+    "runtime-main.js.map": "https://samdeez.github.io/csb-s87kj6/static/js/runtime-main.d8c11fc8.js.map",
+    "static/js/2.636b3dd5.chunk.js": "https://samdeez.github.io/csb-s87kj6/static/js/2.636b3dd5.chunk.js",
+    "static/js/2.636b3dd5.chunk.js.map": "https://samdeez.github.io/csb-s87kj6/static/js/2.636b3dd5.chunk.js.map",
+    "index.html": "https://samdeez.github.io/csb-s87kj6/index.html",
+    "static/js/2.636b3dd5.chunk.js.LICENSE.txt": "https://samdeez.github.io/csb-s87kj6/static/js/2.636b3dd5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c995cec.js",
-    "static/js/2.65efad03.chunk.js",
-    "static/js/main.0fffa765.chunk.js"
+    "static/js/runtime-main.d8c11fc8.js",
+    "static/js/2.636b3dd5.chunk.js",
+    "static/js/main.0507bbc3.chunk.js"
   ]
 }
