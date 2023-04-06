@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://samdeez.github.io/csb-s87kj6/static/js/main.55ef2210.chunk.js",
-    "main.js.map": "https://samdeez.github.io/csb-s87kj6/static/js/main.55ef2210.chunk.js.map",
+    "main.js": "https://samdeez.github.io/csb-s87kj6/static/js/main.bd2e4b2d.chunk.js",
+    "main.js.map": "https://samdeez.github.io/csb-s87kj6/static/js/main.bd2e4b2d.chunk.js.map",
     "runtime-main.js": "https://samdeez.github.io/csb-s87kj6/static/js/runtime-main.72fd3ba5.js",
     "runtime-main.js.map": "https://samdeez.github.io/csb-s87kj6/static/js/runtime-main.72fd3ba5.js.map",
-    "static/js/2.d53cc53d.chunk.js": "https://samdeez.github.io/csb-s87kj6/static/js/2.d53cc53d.chunk.js",
-    "static/js/2.d53cc53d.chunk.js.map": "https://samdeez.github.io/csb-s87kj6/static/js/2.d53cc53d.chunk.js.map",
+    "static/js/2.7f2258ee.chunk.js": "https://samdeez.github.io/csb-s87kj6/static/js/2.7f2258ee.chunk.js",
+    "static/js/2.7f2258ee.chunk.js.map": "https://samdeez.github.io/csb-s87kj6/static/js/2.7f2258ee.chunk.js.map",
     "index.html": "https://samdeez.github.io/csb-s87kj6/index.html",
-    "static/js/2.d53cc53d.chunk.js.LICENSE.txt": "https://samdeez.github.io/csb-s87kj6/static/js/2.d53cc53d.chunk.js.LICENSE.txt"
+    "static/js/2.7f2258ee.chunk.js.LICENSE.txt": "https://samdeez.github.io/csb-s87kj6/static/js/2.7f2258ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.72fd3ba5.js",
-    "static/js/2.d53cc53d.chunk.js",
-    "static/js/main.55ef2210.chunk.js"
+    "static/js/2.7f2258ee.chunk.js",
+    "static/js/main.bd2e4b2d.chunk.js"
   ]
 }
